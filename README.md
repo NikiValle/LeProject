@@ -9,3 +9,5 @@ Monitorare i migliori tempi a livello mondiale, identificare con precisione i se
 Risoluzione del problema di mancanza di visione sulle prestazioni, analisi di dati limitata o non esistente, impossibilità di misurarsi con altri piloti globalmente, e la difficoltà di monitorare i progressi nel tempo per tenere traccia di miglioramenti o peggioramenti nelle prestazioni.
 ## Target
 Piloti di tutte le età e esperienza che vogliono migliorare i propri tempi
+## Diagramma UML dei casi d'uso
+https://yuml.me/1463a7da.svg
