@@ -10,4 +10,5 @@ Risoluzione del problema di mancanza di visione sulle prestazioni, analisi di da
 ## Target
 Piloti di tutte le età e esperienza che vogliono migliorare i propri tempi
 ## Diagramma UML dei casi d'uso
-<img width="1875" height="1490" alt="image" src="https://github.com/user-attachments/assets/166f78aa-bfd0-4e38-a9ca-bec5c92a79e5" />
+<img width="1875" height="1490" alt="image" src="https://github.com/user-attachments/assets/64454cd6-4665-4a9f-afdf-6ebf54722800" />
+
