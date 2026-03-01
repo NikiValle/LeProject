@@ -32,6 +32,7 @@ Analizza settori e punti critici del tracciato
 Considera frenata, accelerazione, traiettoria e cambio marcia
 Si riferisce a veicoli e circuiti nel contesto del motorsport
 ## Tabella di benchmarking
-<img width="811" height="251" alt="image" src="https://github.com/user-attachments/assets/4320184e-9609-470c-8858-69a2144fb92b" />
+<img width="811" height="251" alt="PENUP_20260301_134532" src="https://github.com/user-attachments/assets/9e0d5c4c-bc14-4ed7-882b-3b0b08c049db" />
+
 ## Diagramma UML dei casi d'uso
 <img width="1875" height="1490" alt="image" src="https://github.com/user-attachments/assets/64454cd6-4665-4a9f-afdf-6ebf54722800" />
