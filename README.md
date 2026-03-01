@@ -37,4 +37,4 @@ Si riferisce a veicoli e circuiti nel contesto del motorsport
 ## Diagramma UML dei casi d'uso
 <img width="1875" height="1490" alt="image" src="https://github.com/user-attachments/assets/64454cd6-4665-4a9f-afdf-6ebf54722800" />
 
-[Visualizza la documentazione tecnica (PDF)](./Diagramma_di_Gantt.pdf)
+[Visualizza il diagramma di Gantt (PDF)](./Diagramma_di_Gantt.pdf)
