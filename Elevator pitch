@@ -1,0 +1,26 @@
+Presentazione: Tracklytics (Nicola Valle)
+IL PROBLEMA
+Nel mondo del motorsport moderno, la differenza tra una vittoria e una sconfitta si gioca ormai sul filo dei millesimi di secondo.
+Tuttavia, esiste un paradosso: mentre i veicoli diventano sempre più sofisticati, la stragrande maggioranza dei piloti — dai dilettanti ai semiprofessionisti — scende in pista senza una reale visione delle proprie prestazioni.
+Molti si affidano a cronometri di base o a sistemi di telemetria proprietari estremamente complessi, che restano isolati all'interno del proprio garage.
+Il problema principale è la mancanza di un termine di paragone: un pilota sa quanto è stato veloce, ma raramente capisce esattamente perché non è stato veloce quanto il migliore della sua categoria.
+
+LA SOLUZIONE: Tracklytics
+Per risolvere questo vuoto di dati abbiamo sviluppato LeProject, una piattaforma globale progettata per l'analisi avanzata delle performance in pista.
+Il cuore del sistema è la capacità di raccogliere, normalizzare e confrontare i dati telemetrici di ogni veicolo su ogni tracciato del mondo.
+Non ci limitiamo a registrare i tempi sul giro; offriamo una suite di strumenti diagnostici visivi senza precedenti.
+Attraverso l'uso di heatmap dinamiche, il pilota può visualizzare sul tracciato i punti esatti di frenata, accelerazione e, soprattutto, le aree di perdita di tempo critica. La nostra funzionalità "Ghost" permette inoltre una sovrapposizione millimetrica tra il proprio giro e quello dei top driver globali, rendendo immediatamente evidenti le differenze di traiettoria e di gestione del mezzo.
+
+IL CUORE TECNOLOGICO E AI
+L'innovazione più significativa risiede nel nostro sistema di suggerimenti intelligenti basato su Intelligenza Artificiale. L'algoritmo non si limita a mostrare i dati, ma li interpreta per fornire un feedback data-driven in tempo reale.
+Il sistema agisce come un ingegnere di pista virtuale, suggerendo al pilota la marcia ottimale, il punto di staccata più efficace e la linea di percorrenza ideale per limare ogni decimo di secondo.
+Questa tecnologia è stata progettata per essere scalabile e internazionale, garantendo la massima interoperabilità con i dispositivi telemetrici già presenti sul mercato, come i sistemi Garmin o AIM, abbattendo così le barriere d'ingresso tecnologiche per l'utente finale.
+
+MODELLO DI BUSINESS E INVESTIMENTO
+Dal punto di vista commerciale, LeProject rompe gli schemi dei software a sottoscrizione.
+Abbiamo adottato un modello di One-Time Purchase Software, ovvero un acquisto unico che garantisce al pilota la proprietà della licenza e l'accesso alla piattaforma globale.
+Questa scelta strategica mira a costruire una base utenti solida e fedele, posizionandoci come lo standard di riferimento per chiunque possieda un veicolo da competizione.
+Per quanto riguarda l'impiego dei capitali, la nostra strategia di investimento è fortemente sbilanciata verso l'eccellenza tecnologica.
+Abbiamo pianificato di destinare il 60% del finanziamento alla Ricerca e Sviluppo nell'ambito dell'AI, con l'obiettivo di affinare la precisione dei modelli di analisi predittiva e la velocità di elaborazione dei dati.
+Un ulteriore 25% sarà dedicato al potenziamento dell'infrastruttura cloud globale a bassissima latenza, essenziale per gestire i flussi di dati provenienti da ogni parte del mondo in tempo reale.
+Il restante 15% sarà investito in marketing tecnico e partnership strategiche con i principali circuiti e accademie di guida, per assicurarci che LeProject diventi lo strumento indispensabile presente nel kit di ogni pilota che voglia davvero misurare, e superare, i propri limiti.
