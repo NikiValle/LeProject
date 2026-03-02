@@ -6,7 +6,7 @@ Molti si affidano a cronometri di base o a sistemi di telemetria proprietari est
 Il problema principale è la mancanza di un termine di paragone: un pilota sa quanto è stato veloce, ma raramente capisce esattamente perché non è stato veloce quanto il migliore della sua categoria.
 
 LA SOLUZIONE: Tracklytics
-Per risolvere questo vuoto di dati abbiamo sviluppato LeProject, una piattaforma globale progettata per l'analisi avanzata delle performance in pista.
+Per risolvere questo vuoto di dati abbiamo sviluppato Tracklytics, una piattaforma globale progettata per l'analisi avanzata delle performance in pista.
 Il cuore del sistema è la capacità di raccogliere, normalizzare e confrontare i dati telemetrici di ogni veicolo su ogni tracciato del mondo.
 Non ci limitiamo a registrare i tempi sul giro; offriamo una suite di strumenti diagnostici visivi senza precedenti.
 Attraverso l'uso di heatmap dinamiche, il pilota può visualizzare sul tracciato i punti esatti di frenata, accelerazione e, soprattutto, le aree di perdita di tempo critica. La nostra funzionalità "Ghost" permette inoltre una sovrapposizione millimetrica tra il proprio giro e quello dei top driver globali, rendendo immediatamente evidenti le differenze di traiettoria e di gestione del mezzo.
