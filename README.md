@@ -31,6 +31,8 @@ Utilizza dati telemetrici e tempi sul giro
 Analizza settori e punti critici del tracciato
 Considera frenata, accelerazione, traiettoria e cambio marcia
 Si riferisce a veicoli e circuiti nel contesto del motorsport
+## Mockup
+https://tracklyticsaps.lovable.app/
 ## Tabella di benchmarking
 <img width="811" height="251" alt="PENUP_20260301_134532" src="https://github.com/user-attachments/assets/9e0d5c4c-bc14-4ed7-882b-3b0b08c049db" />
 
