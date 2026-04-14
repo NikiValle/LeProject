@@ -114,7 +114,7 @@ Tracklytics APS utilizza un modello SaaS (Software as a Service) basato su abbon
 
 ## 📈 Diagramma di Gantt
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_o59gkko59gkko59g" src="https://github.com/user-attachments/assets/611abfbf-79c8-4d18-bd30-d6cf354ca458" />
+<img width="3321" height="5536" alt="Senza titolo" src="https://github.com/user-attachments/assets/3f226d4c-c25c-4dce-8125-642392053f5e" />
 
 ---
 
