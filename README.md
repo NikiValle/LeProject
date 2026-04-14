@@ -1,44 +1,204 @@
-# Titolo
-Tracklytics APS
-## Cognome Nome
-Valle Nicola
-##	Descrizione
-Piattaforma globale per l'analisi avanzata delle performance in pista, che raccoglie e confronta i dati telemetrici e i tempi sul giro di ogni veicolo su ogni tracciato. Con obiettivo:
-Monitorare i migliori tempi a livello mondiale, identificare con precisione i settori e i punti critici di perdita di tempo sul giro, fornire feedback data-driven per ottimizzare le prestazioni del pilota e del mezzo.Funzionalità chiave:Classifiche globali in tempo reale per ogni circuito e categoria di veicolo, heatmap di performance sul tracciato per evidenziare aree di frenata, accelerazione e perdita tempo, confronto ghost tra piloti (telemetria affiancata tra il proprio giro e quello dei top driver), sistema di suggerimenti intelligenti basato su AI per migliorare traiettoria, punti di frenata e cambio marcia. storico evoluzione tempi per vedere il progresso personale e confrontarlo con altri utenti, compatibilità con dispositivi telemetrici già esistenti.
-## Problema
-Risoluzione del problema di mancanza di visione sulle prestazioni, analisi di dati limitata o non esistente, impossibilità di misurarsi con altri piloti globalmente, e la difficoltà di monitorare i progressi nel tempo per tenere traccia di miglioramenti o peggioramenti nelle prestazioni.
-## Target
-Piloti di tutte le età e esperienza che vogliono migliorare i propri tempi
-## Requisiti
-#### Requisiti funzionali:
-Raccogliere e confrontare i dati telemetrici e i tempi sul giro di ogni veicolo su ogni tracciato
-Monitorare i migliori tempi a livello mondiale
-Identificare con precisione i settori e i punti critici di perdita di tempo sul giro
-Fornire feedback data-driven per ottimizzare le prestazioni del pilota e del mezzo
-Generare classifiche globali in tempo reale per ogni circuito e categoria di veicolo
-Mostrare heatmap di performance sul tracciato (aree di frenata, accelerazione, perdita tempo)
-Confronto “ghost” tra piloti (telemetria affiancata tra il proprio giro e quello dei top driver)
-Fornire suggerimenti intelligenti basati su AI per migliorare traiettoria, punti di frenata e cambio marcia
-Visualizzare lo storico dell’evoluzione dei tempi per mostrare il progresso personale e confrontarlo con altri utenti
-#### Requisiti non funzionali:
-Deve essere scalabile e accessibile a livello internazionale
-Richiede prestazioni elevate e bassa latenza
-È compatibile con dispositivi telemetrici già esistenti, garantendo interoperabilità
-Include un sistema di suggerimenti basato su AI, quindi deve garantire accuratezza e affidabilità dei modelli
-#### Requisiti di dominio:
-Si focalizza sulle performance in pista
-Utilizza dati telemetrici e tempi sul giro
-Analizza settori e punti critici del tracciato
-Considera frenata, accelerazione, traiettoria e cambio marcia
-Si riferisce a veicoli e circuiti nel contesto del motorsport
-## Mockup
-https://tracklyticsaps.lovable.app/
-## Tabella di benchmarking
+# 🚀 Tracklytics APS
+
+### Advanced Performance System
+
+---
+
+## 👤 Autore
+
+**Valle Nicola**
+
+---
+
+## 🌍 Descrizione del Progetto
+
+Tracklytics APS è una piattaforma globale per l'analisi avanzata delle performance in pista. Il sistema raccoglie, normalizza e confronta dati telemetrici e tempi sul giro provenienti da veicoli diversi su qualsiasi circuito.
+
+### 🎯 Obiettivi principali
+
+* Monitorare i migliori tempi a livello mondiale
+* Identificare con precisione i settori critici
+* Fornire feedback data-driven
+* Migliorare prestazioni di pilota e veicolo
+
+---
+
+## ⚙️ Funzionalità Chiave
+
+* 🏁 Classifiche globali in tempo reale
+* 🔥 Heatmap di performance (frenata, accelerazione, perdita tempo)
+* 👻 Confronto "ghost" tra piloti
+* 🤖 Suggerimenti intelligenti basati su AI
+* 📈 Storico evoluzione tempi
+* 🔌 Compatibilità con dispositivi telemetrici
+
+---
+
+## ❗ Problema
+
+Attualmente i piloti non dispongono di strumenti completi per:
+
+* Analizzare in profondità le proprie performance
+* Confrontarsi a livello globale
+* Monitorare miglioramenti nel tempo
+
+Tracklytics risolve queste limitazioni attraverso analisi avanzate e confronto dati.
+
+---
+
+## 🎯 Target
+
+Piloti di qualsiasi livello (amatori e professionisti) che vogliono migliorare i propri tempi in pista.
+
+---
+
+## 💰 Modello di Business
+
+Tracklytics APS utilizza un modello SaaS (Software as a Service) basato su abbonamento mensile o annuale, con diversi livelli di accesso alle funzionalità avanzate della piattaforma.
+
+---
+
+## 📋 Requisiti
+
+### ✅ Requisiti Funzionali
+
+* Raccolta e confronto dati telemetrici
+* Monitoraggio tempi globali
+* Analisi settori critici
+* Generazione classifiche real-time
+* Heatmap del tracciato
+* Confronto ghost
+* Suggerimenti AI
+* Storico progressi
+
+### ⚡ Requisiti Non Funzionali
+
+* Scalabilità globale
+* Bassa latenza
+* Alte prestazioni
+* Accuratezza AI
+* Interoperabilità dispositivi
+
+### 🏎️ Requisiti di Dominio
+
+* Analisi motorsport
+* Telemetria avanzata
+* Studio traiettorie e guida
+
+---
+
+## 🎨 Mockup
+
+🔗 [https://tracklyticsaps.lovable.app/](https://tracklyticsaps.lovable.app/)
+
+---
+
+## 📊 Benchmarking
+
 <img width="811" height="251" alt="PENUP_20260301_134532" src="https://github.com/user-attachments/assets/9e0d5c4c-bc14-4ed7-882b-3b0b08c049db" />
 
-## Diagramma UML dei casi d'uso
+
+---
+
+## 🧩 Diagramma UML - Casi d'Uso
+
 <img width="1875" height="1490" alt="image" src="https://github.com/user-attachments/assets/64454cd6-4665-4a9f-afdf-6ebf54722800" />
 
-## [WBS](./WBS.png)
+---
 
-## [Diagramma di Gantt (PDF)](./Diagramma_di_Gantt.pdf)
+## 🪜 Work Breakdown Structure (WBS)
+
+<img width="1284" height="816" alt="Gemini_Generated_Image_7ynn7a7ynn7a7ynn" src="https://github.com/user-attachments/assets/474142bf-ffed-4d49-9210-3c5bb5621331" />
+
+---
+
+## 📈 Diagramma di Gantt
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_o59gkko59gkko59g" src="https://github.com/user-attachments/assets/611abfbf-79c8-4d18-bd30-d6cf354ca458" />
+
+---
+
+## 📅 Pianificazione Progetto (Gantt)
+
+## 🗓️ Inizio progetto: 01/03/2026
+
+### 🔹 Fasi principali
+
+#### 1. Analisi e Pianificazione
+
+* Raccolta requisiti
+* Analisi non funzionali
+* Benchmarking
+* Definizione MVP
+
+#### 2. Progettazione Architettura
+
+* Backend (API / microservizi)
+* Database
+* Architettura AI
+* UX/UI
+
+#### 3. Sviluppo Backend
+
+* Autenticazione
+* Ingestione dati telemetrici
+* Normalizzazione dati
+* Classifiche real-time
+* Storico tempi
+
+#### 4. AI & Analytics
+
+* Dataset
+* Ghost comparison
+* Suggerimenti AI
+* Heatmap
+
+#### 5. Frontend
+
+* Dashboard
+* Visualizzazioni interattive
+
+#### 6. Integrazione Dispositivi
+
+* Analisi protocolli
+* API
+* Test
+
+#### 7. Testing
+
+* Funzionale
+* Performance
+* Ottimizzazione AI
+
+#### 8. Deployment
+
+* Setup cloud
+* Beta release
+* Release finale (08/09/2026)
+---
+
+## 📎 Allegati
+
+* 📌 Diagramma di Gantt (PDF)
+* 📌 WBS
+* 📌 UML
+* 📌 Benchmarking
+
+---
+
+## 💡 Valore del Progetto
+
+Tracklytics APS rappresenta una soluzione innovativa nel motorsport data-driven, offrendo strumenti avanzati per migliorare le performance in modo scientifico e competitivo.
+
+---
+
+## 🔮 Sviluppi Futuri
+
+* Integrazione con simulatori di guida
+* Community e social features
+* Analisi predittiva avanzata
+* Coaching AI personalizzato
+
+---
+
+**Tracklytics APS — Trasforma i dati in velocità.**
