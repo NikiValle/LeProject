@@ -97,10 +97,13 @@ Tracklytics APS utilizza un modello SaaS (Software as a Service) basato su abbon
 
 ---
 
+<img width="1867" height="1470" alt="Opera Snapshot_2026-04-17_085621_tracklyticsaps lovable app" src="https://github.com/user-attachments/assets/242f78a5-ddd8-41ad-a9d5-c9f6970af170" />
+
+---
+
 ## 📊 Benchmarking
 
-<img width="811" height="251" alt="PENUP_20260301_134532" src="https://github.com/user-attachments/assets/9e0d5c4c-bc14-4ed7-882b-3b0b08c049db" />
-
+<img width="811" height="251" alt="PENUP_20260417_085340" src="https://github.com/user-attachments/assets/a907e73d-5bcb-48dd-89b7-088a296a4d2f" />
 
 ---
 
