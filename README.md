@@ -186,8 +186,10 @@ Tracklytics APS utilizza un modello SaaS (Software as a Service) basato su abbon
 
 ## 🎤 Elevator pitch
 
-Elevator Pitch: Tracklytics
+### Elevator Pitch: Tracklytics
+
 Presentato da: Nicola Valle
+
 IL PROBLEMA
 Nel motorsport moderno, la differenza tra vittoria e sconfitta si gioca sul filo dei millesimi di secondo.
 Esiste un paradosso: mentre i veicoli diventano sofisticati, la stragrande maggioranza dei piloti scende in pista senza dati azionabili.
